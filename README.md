@@ -1,4 +1,4 @@
-# GRIP-task1
+# Student score Prediction
 This repository contains the code for a machine learning project that predicts the score of a student based on the number of hours they study. The project is implemented using Python and various libraries for data analysis and machine learning.
 
 Introduction
